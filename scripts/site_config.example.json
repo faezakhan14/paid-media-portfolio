@@ -1,0 +1,11 @@
+{
+  "base_url": "https://www.example.com",
+  "gtm_container_id": "GTM-XXXXXXX",
+  "pages": [
+    { "path": "/wp-login.php",           "needs_tracking_tag": false },
+    { "path": "/",                       "needs_tracking_tag": true  },
+    { "path": "/landing-page-one/",      "needs_tracking_tag": true  },
+    { "path": "/landing-page-two/",      "needs_tracking_tag": true  },
+    { "path": "/thank-you/",             "needs_tracking_tag": false }
+  ]
+}

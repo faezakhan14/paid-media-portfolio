@@ -1,0 +1,10 @@
+{
+  "_comment": "Words that, in a search term, suggest why it is probably irrelevant. Fill in for your own market. Review before adding any as a negative.",
+  "Government / regulatory seekers": ["planning department", "incentive", "rebate", "zoning map", "permit application"],
+  "Research / how-to / DIY":         ["what is", "reddit", "youtube", "pdf", "wikipedia", "template"],
+  "Wrong location":                  ["town-outside-your-area", "another-city"],
+  "Competitors":                      ["competitor-name-one", "competitor-name-two"],
+  "Wrong service":                    ["water damage", "landscaping", "pool", "fence"],
+  "Renting / jobs / DIY materials":   ["for rent", "careers", "kit", "kijiji"],
+  "Price-only shoppers":              ["cheap", "free quote", "cost per square foot"]
+}

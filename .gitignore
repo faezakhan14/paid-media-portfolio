@@ -1,0 +1,11 @@
+.env
+site_config.json
+capi_stage_map.json
+negative_buckets.json
+watchlist.txt
+capi_sync_state.json
+*.csv
+*_ALERT.txt
+SITE_ALERT.txt
+__pycache__/
+*.log

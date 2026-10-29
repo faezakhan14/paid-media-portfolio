@@ -1,0 +1,9 @@
+{
+  "_comment": "CRM pipeline stage ID -> funnel rank. 1=Lead, 2=Qualified, 3=EstimateSent, 4=Purchase (won). Get stage IDs from your CRM's pipeline API.",
+  "stage-id-new-lead": 1,
+  "stage-id-contacted": 1,
+  "stage-id-appointment-booked": 2,
+  "stage-id-estimating": 2,
+  "stage-id-proposal-sent": 3,
+  "stage-id-won": 4
+}

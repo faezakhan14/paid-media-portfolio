@@ -1,0 +1,8 @@
+# One lowercase term per line. Used by google_ads_leakage_check.py.
+# Add competitor brand names and towns you do NOT serve. Any search term that
+# contains one of these and costs money is flagged, because it should already
+# be a negative keyword.
+competitor-name-one
+competitor-name-two
+town-outside-your-area
+another-city

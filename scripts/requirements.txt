@@ -1,0 +1,4 @@
+google-ads
+python-dotenv
+requests
+playwright
