@@ -45,4 +45,8 @@ Six small Python tools I built because something went wrong once and I wanted it
 
 All client names, account and pixel IDs, domains, phone numbers, competitor names, people's names, spend, lead counts and revenue figures have been removed or generalised. Nothing here is taken from a client's data export.
 
+## Contact
+
+**Faiza Khan** · [LinkedIn](https://www.linkedin.com/in/faizakhanyousafzai)
+
 *Code is shared under the MIT license (see [LICENSE](LICENSE)). Case studies and playbooks are my own writing.*
